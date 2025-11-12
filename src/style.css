@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import "js-datepicker/dist/datepicker.min.css";
+
+* {
+  /* border-width: 1px; */
+}

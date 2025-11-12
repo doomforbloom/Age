@@ -10,5 +10,11 @@
   },
   "devDependencies": {
     "vite": "^7.2.2"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.17",
+    "js-datepicker": "^5.18.4",
+    "luxon": "^3.7.2",
+    "tailwindcss": "^4.1.17"
   }
 }
